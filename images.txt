@@ -19,7 +19,7 @@ nacos/nacos-server:v2.4.3
 # nacos-server:v2.2.3-slim
 rabbitmq:3.12.9
 rabbitmq:3.12.9-management
-rocketmq:5.1.0
+# rocketmq:5.1.0
 apacherocketmq/rocketmq-dashboard:2.1.1
 kafka:3.7.0
 nginx:1.25.1
