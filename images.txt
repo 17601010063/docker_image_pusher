@@ -16,7 +16,7 @@ pingcap/pd:v5.0.5
 mongo
 
 nacos/nacos-server:v2.4.3
-nacos-server:v2.2.3-slim
+# nacos-server:v2.2.3-slim
 rabbitmq:3.12.9
 rabbitmq:3.12.9-management
 rocketmq:5.1.0
