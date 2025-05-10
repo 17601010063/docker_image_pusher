@@ -23,13 +23,13 @@ apache/rocketmq:5.3.2
 apacherocketmq/rocketmq-dashboard:2.0.1
 bitnami/kafka:4.0.0
 openresty/openresty
-canal-server:v1.1.6
-canal-adapter:v1.1.6
-zookeeper:3.9.0
-xxl-job-admin:2.4.0
-sentinel-dashboard:1.8.7
+canal/canal-server:v1.1.8
+# canal/canal-adapter:v1.1.8
+zookeeper:3.9
+opensnail/snail-job:1.4.0
+bladex/sentinel-dashboard:1.8.8
 
-prometheus:2.47.2
+bitnami/prometheus:3.3.1
 grafana:10.2.0
 portainer:latest
 kibana:7.17.14
